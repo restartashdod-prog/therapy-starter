@@ -1,0 +1,7 @@
+﻿Django==5.2.13
+whitenoise==6.5.0
+gunicorn==21.2.0
+# add other project dependencies below
+djangorestframework
+djangorestframework
+
